@@ -1,0 +1,1100 @@
+Student ID: 361219
+Name: Lavern
+Surname: Tifft
+Booklet: A
+Number Of Right Questions: 21
+Number Of Wrong Questions: 16
+Number Of Empty Questions: 3
+Net: 17.0
+Point: 255.0
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Great Oak University Department of Computer Engineering']
+Student ID: 438329
+Name: Marlowe
+Surname: Holmes
+Booklet: B
+Number Of Right Questions: 26
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 2
+Net: 23.0
+Point: 345.0
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 901007
+Name: Cameron
+Surname: Mitchell
+Booklet: A
+Number Of Right Questions: 24
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 4
+Net: 21.0
+Point: 315.0
+Selected 1. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Selected 2. University: ['Laguna Creek University Department of Art History and Archaeology']
+Student ID: 678407
+Name: Wisdom
+Surname: Yates
+Booklet: A
+Number Of Right Questions: 26
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 2
+Net: 23.0
+Point: 345.0
+Selected 1. University: ['Sunset University Department of Art History and Archaeology']
+Selected 2. University: ['Eagle Mountain University Department of Computer Engineering']
+Student ID: 189612
+Name: Lacey
+Surname: Hutson
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 3
+Net: 19.5
+Point: 292.5
+Selected 1. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 420832
+Name: Darby
+Surname: Yates
+Booklet: B
+Number Of Right Questions: 28
+Number Of Wrong Questions: 6
+Number Of Empty Questions: 6
+Net: 26.5
+Point: 397.5
+Selected 1. University: ['Cypress University Department of Art History and Archaeology']
+Selected 2. University: ['Eagle Mountain University Department of Computer Engineering']
+Student ID: 201910
+Name: Chris
+Surname: Presley
+Booklet: A
+Number Of Right Questions: 26
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 1
+Net: 22.75
+Point: 341.25
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['South Fork University Department of Marketing']
+Student ID: 890931
+Name: Silver
+Surname: Hoggard
+Booklet: B
+Number Of Right Questions: 20
+Number Of Wrong Questions: 18
+Number Of Empty Questions: 2
+Net: 15.5
+Point: 232.5
+Selected 1. University: ['Martin Luther King University Department of Computer Engineering']
+Selected 2. University: ['Laguna Creek University Department of Art History and Archaeology']
+Student ID: 845623
+Name: Harley
+Surname: Phillips
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 16
+Number Of Empty Questions: 1
+Net: 19.0
+Point: 285.0
+Selected 1. University: ['Sun Valley University Department of Computer Engineering']
+Selected 2. University: ['Great Oak University Department of Computer Engineering']
+Student ID: 720939
+Name: Celestine
+Surname: Jardine
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 3
+Net: 19.5
+Point: 292.5
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 122322
+Name: Collyn
+Surname: Lamar
+Booklet: B
+Number Of Right Questions: 24
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 3
+Net: 20.75
+Point: 311.25
+Selected 1. University: ['Martin Luther King University Department of Computer Engineering']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 103779
+Name: Harlow
+Surname: Randal
+Booklet: B
+Number Of Right Questions: 22
+Number Of Wrong Questions: 15
+Number Of Empty Questions: 3
+Net: 18.25
+Point: 273.75
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 441035
+Name: Lake
+Surname: Russel
+Booklet: B
+Number Of Right Questions: 21
+Number Of Wrong Questions: 15
+Number Of Empty Questions: 4
+Net: 17.25
+Point: 258.75
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 766042
+Name: Cedar
+Surname: Daniel
+Booklet: B
+Number Of Right Questions: 26
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 2
+Net: 23.0
+Point: 345.0
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 270024
+Name: Kim
+Surname: Tatton
+Booklet: A
+Number Of Right Questions: 26
+Number Of Wrong Questions: 7
+Number Of Empty Questions: 7
+Net: 24.25
+Point: 363.75
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 785465
+Name: Izzy
+Surname: Samson
+Booklet: B
+Number Of Right Questions: 23
+Number Of Wrong Questions: 11
+Number Of Empty Questions: 6
+Net: 20.25
+Point: 303.75
+Selected 1. University: ['Meadows University Department of Art History and Archaeology']
+Selected 2. University: ['South Fork University Department of Marketing']
+Student ID: 515630
+Name: Cherokee
+Surname: Haynes
+Booklet: B
+Number Of Right Questions: 29
+Number Of Wrong Questions: 8
+Number Of Empty Questions: 3
+Net: 27.0
+Point: 405.0
+Selected 1. University: ['Cypress University Department of Art History and Archaeology']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 882741
+Name: Hadley
+Surname: Simen
+Booklet: B
+Number Of Right Questions: 25
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 2
+Net: 21.75
+Point: 326.25
+Selected 1. University: ['Cypress University Department of Art History and Archaeology']
+Selected 2. University: ['Eagle Mountain University Department of Computer Engineering']
+Student ID: 836581
+Name: Kasey
+Surname: Sadler
+Booklet: B
+Number Of Right Questions: 26
+Number Of Wrong Questions: 10
+Number Of Empty Questions: 4
+Net: 23.5
+Point: 352.5
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 688703
+Name: Shaye
+Surname: Tindall
+Booklet: B
+Number Of Right Questions: 27
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 1
+Net: 24.0
+Point: 360.0
+Selected 1. University: ['Laguna Creek University Department of Art History and Archaeology']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 710606
+Name: Tracy
+Surname: Hughes
+Booklet: B
+Number Of Right Questions: 18
+Number Of Wrong Questions: 21
+Number Of Empty Questions: 1
+Net: 12.75
+Point: 191.25
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['South Fork University Department of Marketing']
+Student ID: 898056
+Name: Sandy
+Surname: Ryley
+Booklet: A
+Number Of Right Questions: 20
+Number Of Wrong Questions: 15
+Number Of Empty Questions: 5
+Net: 16.25
+Point: 243.75
+Selected 1. University: ['Sun Valley University Department of Computer Engineering']
+Selected 2. University: ['Great Oak University Department of Computer Engineering']
+Student ID: 433664
+Name: Kendall
+Surname: Michaelson
+Booklet: B
+Number Of Right Questions: 31
+Number Of Wrong Questions: 6
+Number Of Empty Questions: 3
+Net: 29.5
+Point: 442.5
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 745238
+Name: Lennon
+Surname: Eccleston
+Booklet: A
+Number Of Right Questions: 19
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 7
+Net: 15.5
+Point: 232.5
+Selected 1. University: ['Sun Valley University Department of Computer Engineering']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 199304
+Name: Jackie
+Surname: Thorburn
+Booklet: B
+Number Of Right Questions: 27
+Number Of Wrong Questions: 11
+Number Of Empty Questions: 2
+Net: 24.25
+Point: 363.75
+Selected 1. University: ['Martin Luther King University Department of Computer Engineering']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 512532
+Name: Mackenzie
+Surname: Eliot
+Booklet: A
+Number Of Right Questions: 24
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 3
+Net: 20.75
+Point: 311.25
+Selected 1. University: ['Laguna Creek University Department of Art History and Archaeology']
+Selected 2. University: ['Great Oak University Department of Computer Engineering']
+Student ID: 373232
+Name: Reign
+Surname: Massey
+Booklet: B
+Number Of Right Questions: 29
+Number Of Wrong Questions: 8
+Number Of Empty Questions: 3
+Net: 27.0
+Point: 405.0
+Selected 1. University: ['Cypress University Department of Art History and Archaeology']
+Selected 2. University: ['Laguna Creek University Department of Art History and Archaeology']
+Student ID: 290743
+Name: Ellis
+Surname: Johnson
+Booklet: A
+Number Of Right Questions: 32
+Number Of Wrong Questions: 8
+Number Of Empty Questions: 0
+Net: 30.0
+Point: 450.0
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 722714
+Name: Sheridan
+Surname: Mann
+Booklet: B
+Number Of Right Questions: 26
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 2
+Net: 23.0
+Point: 345.0
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Great Oak University Department of Computer Engineering']
+Student ID: 578733
+Name: September
+Surname: Powers
+Booklet: B
+Number Of Right Questions: 24
+Number Of Wrong Questions: 16
+Number Of Empty Questions: 0
+Net: 20.0
+Point: 300.0
+Selected 1. University: ['Sun Valley University Department of Computer Engineering']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 839755
+Name: Malone
+Surname: Simms
+Booklet: B
+Number Of Right Questions: 20
+Number Of Wrong Questions: 16
+Number Of Empty Questions: 4
+Net: 16.0
+Point: 240.0
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 691493
+Name: Gabby
+Surname: Westley
+Booklet: A
+Number Of Right Questions: 30
+Number Of Wrong Questions: 9
+Number Of Empty Questions: 1
+Net: 27.75
+Point: 416.25
+Selected 1. University: ['Cypress University Department of Art History and Archaeology']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 724069
+Name: Morgan
+Surname: Spooner
+Booklet: A
+Number Of Right Questions: 19
+Number Of Wrong Questions: 15
+Number Of Empty Questions: 6
+Net: 15.25
+Point: 228.75
+Selected 1. University: ['Sunset University Department of Art History and Archaeology']
+Selected 2. University: ['Laguna Creek University Department of Art History and Archaeology']
+Student ID: 319430
+Name: Toby
+Surname: Spearing
+Booklet: A
+Number Of Right Questions: 25
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 3
+Net: 22.0
+Point: 330.0
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 965401
+Name: Jules
+Surname: Peck
+Booklet: A
+Number Of Right Questions: 24
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 4
+Net: 21.0
+Point: 315.0
+Selected 1. University: ['Sunset University Department of Art History and Archaeology']
+Selected 2. University: ['Great Oak University Department of Computer Engineering']
+Student ID: 818429
+Name: Devin
+Surname: Alfredson
+Booklet: A
+Number Of Right Questions: 22
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 5
+Net: 18.75
+Point: 281.25
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Sun Valley University Department of Computer Engineering']
+Student ID: 901426
+Name: Rory
+Surname: Washington
+Booklet: A
+Number Of Right Questions: 29
+Number Of Wrong Questions: 8
+Number Of Empty Questions: 3
+Net: 27.0
+Point: 405.0
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Sun Valley University Department of Computer Engineering']
+Student ID: 413404
+Name: Channing
+Surname: Bowman
+Booklet: B
+Number Of Right Questions: 26
+Number Of Wrong Questions: 9
+Number Of Empty Questions: 5
+Net: 23.75
+Point: 356.25
+Selected 1. University: ['Sun Valley University Department of Computer Engineering']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 936822
+Name: Angel
+Surname: Paige
+Booklet: A
+Number Of Right Questions: 27
+Number Of Wrong Questions: 9
+Number Of Empty Questions: 4
+Net: 24.75
+Point: 371.25
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Great Oak University Department of Computer Engineering']
+Student ID: 775661
+Name: Cary
+Surname: Hawk
+Booklet: B
+Number Of Right Questions: 24
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 4
+Net: 21.0
+Point: 315.0
+Selected 1. University: ['Cypress University Department of Art History and Archaeology']
+Selected 2. University: ['Sun Valley University Department of Computer Engineering']
+Student ID: 692124
+Name: Wallis
+Surname: Woodcock
+Booklet: B
+Number Of Right Questions: 24
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 3
+Net: 20.75
+Point: 311.25
+Selected 1. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Selected 2. University: ['Laguna Creek University Department of Art History and Archaeology']
+Student ID: 776456
+Name: Dale
+Surname: Crisp
+Booklet: B
+Number Of Right Questions: 31
+Number Of Wrong Questions: 7
+Number Of Empty Questions: 2
+Net: 29.25
+Point: 438.75
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 926146
+Name: Presley
+Surname: Randall
+Booklet: A
+Number Of Right Questions: 24
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 4
+Net: 21.0
+Point: 315.0
+Selected 1. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 214831
+Name: Ora
+Surname: Minett
+Booklet: B
+Number Of Right Questions: 24
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 2
+Net: 20.5
+Point: 307.5
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 597414
+Name: Chandler
+Surname: Abrams
+Booklet: A
+Number Of Right Questions: 29
+Number Of Wrong Questions: 8
+Number Of Empty Questions: 3
+Net: 27.0
+Point: 405.0
+Selected 1. University: ['Meadows University Department of Art History and Archaeology']
+Selected 2. University: ['South Fork University Department of Marketing']
+Student ID: 950336
+Name: Hartley
+Surname: Purcell
+Booklet: B
+Number Of Right Questions: 27
+Number Of Wrong Questions: 10
+Number Of Empty Questions: 3
+Net: 24.5
+Point: 367.5
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 872204
+Name: Raven
+Surname: Mason
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 3
+Net: 19.5
+Point: 292.5
+Selected 1. University: ['Laguna Creek University Department of Art History and Archaeology']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 838008
+Name: Shirley
+Surname: Stacy
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 5
+Net: 20.0
+Point: 300.0
+Selected 1. University: ['Martin Luther King University Department of Computer Engineering']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 407093
+Name: Jojo
+Surname: Wallace
+Booklet: B
+Number Of Right Questions: 26
+Number Of Wrong Questions: 10
+Number Of Empty Questions: 4
+Net: 23.5
+Point: 352.5
+Selected 1. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 487609
+Name: Presley
+Surname: Woods
+Booklet: B
+Number Of Right Questions: 21
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 6
+Net: 17.75
+Point: 266.25
+Selected 1. University: ['Cypress University Department of Art History and Archaeology']
+Selected 2. University: ['Laguna Creek University Department of Art History and Archaeology']
+Student ID: 457034
+Name: Dannie
+Surname: Niles
+Booklet: B
+Number Of Right Questions: 21
+Number Of Wrong Questions: 19
+Number Of Empty Questions: 0
+Net: 16.25
+Point: 243.75
+Selected 1. University: ['Cypress University Department of Art History and Archaeology']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 865318
+Name: Pip
+Surname: Waldroup
+Booklet: B
+Number Of Right Questions: 28
+Number Of Wrong Questions: 8
+Number Of Empty Questions: 4
+Net: 26.0
+Point: 390.0
+Selected 1. University: ['Meadows University Department of Art History and Archaeology']
+Selected 2. University: ['South Fork University Department of Marketing']
+Student ID: 559994
+Name: Fortune
+Surname: Huxley
+Booklet: B
+Number Of Right Questions: 26
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 1
+Net: 22.75
+Point: 341.25
+Selected 1. University: ['Martin Luther King University Department of Computer Engineering']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 270866
+Name: Jools
+Surname: Waller
+Booklet: A
+Number Of Right Questions: 29
+Number Of Wrong Questions: 9
+Number Of Empty Questions: 2
+Net: 26.75
+Point: 401.25
+Selected 1. University: ['Laguna Creek University Department of Art History and Archaeology']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 886494
+Name: Hadley
+Surname: Rounds
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 11
+Number Of Empty Questions: 6
+Net: 20.25
+Point: 303.75
+Selected 1. University: ['Laguna Creek University Department of Art History and Archaeology']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 341078
+Name: Aaren
+Surname: Hopkins
+Booklet: B
+Number Of Right Questions: 24
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 3
+Net: 20.75
+Point: 311.25
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 630774
+Name: Ellington
+Surname: Sherburn
+Booklet: A
+Number Of Right Questions: 24
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 4
+Net: 21.0
+Point: 315.0
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 688259
+Name: Dallas
+Surname: Ingram
+Booklet: A
+Number Of Right Questions: 28
+Number Of Wrong Questions: 7
+Number Of Empty Questions: 5
+Net: 26.25
+Point: 393.75
+Selected 1. University: ['Sunset University Department of Art History and Archaeology']
+Selected 2. University: ['Meadows University Department of Art History and Archaeology']
+Student ID: 810271
+Name: Darby
+Surname: Poindexter
+Booklet: B
+Number Of Right Questions: 22
+Number Of Wrong Questions: 16
+Number Of Empty Questions: 2
+Net: 18.0
+Point: 270.0
+Selected 1. University: ['Sun Valley University Department of Computer Engineering']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 328702
+Name: Lynn
+Surname: Baldwin
+Booklet: B
+Number Of Right Questions: 22
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 4
+Net: 18.5
+Point: 277.5
+Selected 1. University: ['Meadows University Department of Art History and Archaeology']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 217678
+Name: Shaye
+Surname: Smalls
+Booklet: A
+Number Of Right Questions: 25
+Number Of Wrong Questions: 11
+Number Of Empty Questions: 4
+Net: 22.25
+Point: 333.75
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 768559
+Name: Taylor
+Surname: Robert
+Booklet: A
+Number Of Right Questions: 24
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 3
+Net: 20.75
+Point: 311.25
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 438870
+Name: Cass
+Surname: Elwyn
+Booklet: A
+Number Of Right Questions: 22
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 6
+Net: 19.0
+Point: 285.0
+Selected 1. University: ['Martin Luther King University Department of Computer Engineering']
+Selected 2. University: ['South Fork University Department of Marketing']
+Student ID: 370742
+Name: Charlie
+Surname: Armstrong
+Booklet: B
+Number Of Right Questions: 24
+Number Of Wrong Questions: 15
+Number Of Empty Questions: 1
+Net: 20.25
+Point: 303.75
+Selected 1. University: ['Laguna Creek University Department of Art History and Archaeology']
+Selected 2. University: ['Great Oak University Department of Computer Engineering']
+Student ID: 224990
+Name: Peyton
+Surname: Simms
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 16
+Number Of Empty Questions: 1
+Net: 19.0
+Point: 285.0
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 949024
+Name: Sydney
+Surname: Abram
+Booklet: B
+Number Of Right Questions: 29
+Number Of Wrong Questions: 7
+Number Of Empty Questions: 4
+Net: 27.25
+Point: 408.75
+Selected 1. University: ['Meadows University Department of Art History and Archaeology']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 838608
+Name: Jamey
+Surname: Faulkner
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 15
+Number Of Empty Questions: 2
+Net: 19.25
+Point: 288.75
+Selected 1. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Selected 2. University: ['Great Oak University Department of Computer Engineering']
+Student ID: 943272
+Name: Jimmie
+Surname: Roach
+Booklet: B
+Number Of Right Questions: 25
+Number Of Wrong Questions: 10
+Number Of Empty Questions: 5
+Net: 22.5
+Point: 337.5
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Meadows University Department of Art History and Archaeology']
+Student ID: 721954
+Name: Arden
+Surname: Frost
+Booklet: B
+Number Of Right Questions: 28
+Number Of Wrong Questions: 9
+Number Of Empty Questions: 3
+Net: 25.75
+Point: 386.25
+Selected 1. University: ['Cypress University Department of Art History and Archaeology']
+Selected 2. University: ['Eagle Mountain University Department of Computer Engineering']
+Student ID: 649884
+Name: Marlyn
+Surname: James
+Booklet: A
+Number Of Right Questions: 25
+Number Of Wrong Questions: 10
+Number Of Empty Questions: 5
+Net: 22.5
+Point: 337.5
+Selected 1. University: ['Laguna Creek University Department of Art History and Archaeology']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 292955
+Name: Blythe
+Surname: Beckett
+Booklet: B
+Number Of Right Questions: 28
+Number Of Wrong Questions: 11
+Number Of Empty Questions: 1
+Net: 25.25
+Point: 378.75
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 218111
+Name: Jerry
+Surname: Forest
+Booklet: A
+Number Of Right Questions: 24
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 4
+Net: 21.0
+Point: 315.0
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 903208
+Name: Courtney
+Surname: Virgo
+Booklet: A
+Number Of Right Questions: 21
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 6
+Net: 17.75
+Point: 266.25
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 586030
+Name: Chris
+Surname: Woodward
+Booklet: B
+Number Of Right Questions: 26
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 1
+Net: 22.75
+Point: 341.25
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 867082
+Name: Marlowe
+Surname: Roydon
+Booklet: B
+Number Of Right Questions: 23
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 3
+Net: 19.5
+Point: 292.5
+Selected 1. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 510357
+Name: Malone
+Surname: Bissette
+Booklet: A
+Number Of Right Questions: 24
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 2
+Net: 20.5
+Point: 307.5
+Selected 1. University: ['Sun Valley University Department of Computer Engineering']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 882851
+Name: Daly
+Surname: Philips
+Booklet: A
+Number Of Right Questions: 24
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 4
+Net: 21.0
+Point: 315.0
+Selected 1. University: ['Martin Luther King University Department of Computer Engineering']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 258302
+Name: Reign
+Surname: Bloodworth
+Booklet: B
+Number Of Right Questions: 21
+Number Of Wrong Questions: 16
+Number Of Empty Questions: 3
+Net: 17.0
+Point: 255.0
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 545193
+Name: Bertie
+Surname: Ewart
+Booklet: B
+Number Of Right Questions: 24
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 4
+Net: 21.0
+Point: 315.0
+Selected 1. University: ['Martin Luther King University Department of Computer Engineering']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 271465
+Name: Silver
+Surname: Benton
+Booklet: B
+Number Of Right Questions: 26
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 1
+Net: 22.75
+Point: 341.25
+Selected 1. University: ['Meadows University Department of Art History and Archaeology']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 443337
+Name: Kim
+Surname: Osborne
+Booklet: B
+Number Of Right Questions: 19
+Number Of Wrong Questions: 15
+Number Of Empty Questions: 6
+Net: 15.25
+Point: 228.75
+Selected 1. University: ['Meadows University Department of Art History and Archaeology']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 563063
+Name: Averill
+Surname: Sargent
+Booklet: B
+Number Of Right Questions: 20
+Number Of Wrong Questions: 15
+Number Of Empty Questions: 5
+Net: 16.25
+Point: 243.75
+Selected 1. University: ['Cypress University Department of Art History and Archaeology']
+Selected 2. University: ['Great Oak University Department of Computer Engineering']
+Student ID: 689288
+Name: Page
+Surname: Sands
+Booklet: A
+Number Of Right Questions: 24
+Number Of Wrong Questions: 11
+Number Of Empty Questions: 5
+Net: 21.25
+Point: 318.75
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 359480
+Name: Karsyn
+Surname: Mayes
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 13
+Number Of Empty Questions: 4
+Net: 19.75
+Point: 296.25
+Selected 1. University: ['Meadows University Department of Art History and Archaeology']
+Selected 2. University: ['South Fork University Department of Marketing']
+Student ID: 111775
+Name: Billie
+Surname: Fry
+Booklet: B
+Number Of Right Questions: 26
+Number Of Wrong Questions: 10
+Number Of Empty Questions: 4
+Net: 23.5
+Point: 352.5
+Selected 1. University: ['Meadows University Department of Art History and Archaeology']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 394588
+Name: Johnie
+Surname: Priestley
+Booklet: B
+Number Of Right Questions: 25
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 3
+Net: 22.0
+Point: 330.0
+Selected 1. University: ['Cypress University Department of Art History and Archaeology']
+Selected 2. University: ['South Fork University Department of Marketing']
+Student ID: 765401
+Name: London
+Surname: Brant
+Booklet: A
+Number Of Right Questions: 25
+Number Of Wrong Questions: 15
+Number Of Empty Questions: 0
+Net: 21.25
+Point: 318.75
+Selected 1. University: ['Sun Valley University Department of Computer Engineering']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 450353
+Name: Ariel
+Surname: Hodson
+Booklet: A
+Number Of Right Questions: 26
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 0
+Net: 22.5
+Point: 337.5
+Selected 1. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 628461
+Name: Teagan
+Surname: Beckett
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 15
+Number Of Empty Questions: 2
+Net: 19.25
+Point: 288.75
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 325729
+Name: Temple
+Surname: Akerman
+Booklet: A
+Number Of Right Questions: 27
+Number Of Wrong Questions: 11
+Number Of Empty Questions: 2
+Net: 24.25
+Point: 363.75
+Selected 1. University: ['South Fork University Department of Marketing']
+Selected 2. University: ['Great Oak University Department of Computer Engineering']
+Student ID: 958873
+Name: Dale
+Surname: Woodrow
+Booklet: B
+Number Of Right Questions: 25
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 1
+Net: 21.5
+Point: 322.5
+Selected 1. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Selected 2. University: ['Eagle Mountain University Department of Computer Engineering']
+Student ID: 524679
+Name: Rory
+Surname: Marsh
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 10
+Number Of Empty Questions: 7
+Net: 20.5
+Point: 307.5
+Selected 1. University: ['Great Oak University Department of Computer Engineering']
+Selected 2. University: ['Martin Luther King University Department of Computer Engineering']
+Student ID: 930986
+Name: Stacy
+Surname: Pound
+Booklet: A
+Number Of Right Questions: 29
+Number Of Wrong Questions: 6
+Number Of Empty Questions: 5
+Net: 27.5
+Point: 412.5
+Selected 1. University: ['Sun Valley University Department of Computer Engineering']
+Selected 2. University: ['Meadows University Department of Art History and Archaeology']
+Student ID: 872501
+Name: Jewel
+Surname: Blakesley
+Booklet: A
+Number Of Right Questions: 23
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 3
+Net: 19.5
+Point: 292.5
+Selected 1. University: ['Laguna Creek University Department of Art History and Archaeology']
+Selected 2. University: ['South Fork University Department of Marketing']
+Student ID: 872354
+Name: Cortney
+Surname: Chapman
+Booklet: A
+Number Of Right Questions: 27
+Number Of Wrong Questions: 10
+Number Of Empty Questions: 3
+Net: 24.5
+Point: 367.5
+Selected 1. University: ['Meadows University Department of Art History and Archaeology']
+Selected 2. University: ['Eagle Mountain University Department of Computer Engineering']
+Student ID: 426522
+Name: Logan
+Surname: Paxton
+Booklet: B
+Number Of Right Questions: 27
+Number Of Wrong Questions: 11
+Number Of Empty Questions: 2
+Net: 24.25
+Point: 363.75
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Student ID: 473903
+Name: Lavern
+Surname: Vann
+Booklet: B
+Number Of Right Questions: 27
+Number Of Wrong Questions: 8
+Number Of Empty Questions: 5
+Net: 25.0
+Point: 375.0
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Cypress University Department of Art History and Archaeology']
+Student ID: 979483
+Name: Justice
+Surname: Colton
+Booklet: A
+Number Of Right Questions: 25
+Number Of Wrong Questions: 12
+Number Of Empty Questions: 3
+Net: 22.0
+Point: 330.0
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
+Student ID: 797851
+Name: Johnnie
+Surname: Dabney
+Booklet: B
+Number Of Right Questions: 31
+Number Of Wrong Questions: 8
+Number Of Empty Questions: 1
+Net: 29.0
+Point: 435.0
+Selected 1. University: ['Eagle Mountain University Department of Computer Engineering']
+Selected 2. University: ['Sun Valley University Department of Computer Engineering']
+Student ID: 289768
+Name: Lennox
+Surname: Corwin
+Booklet: B
+Number Of Right Questions: 25
+Number Of Wrong Questions: 14
+Number Of Empty Questions: 1
+Net: 21.5
+Point: 322.5
+Selected 1. University: ['Broad River University Department of Applied Physics and Applied Mathematics']
+Selected 2. University: ['Sunset University Department of Art History and Archaeology']
